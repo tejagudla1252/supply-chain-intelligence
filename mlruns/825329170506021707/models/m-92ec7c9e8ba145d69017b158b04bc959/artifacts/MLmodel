@@ -1,0 +1,22 @@
+artifact_path: /Users/teja/Downloads/Supply chain Project/mlruns/825329170506021707/models/m-92ec7c9e8ba145d69017b158b04bc959/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-92ec7c9e8ba145d69017b158b04bc959
+model_size_bytes: 1902116
+model_uuid: m-92ec7c9e8ba145d69017b158b04bc959
+prompts: null
+run_id: d5858604f6a944c3a82e62c8d56346a2
+utc_time_created: '2026-03-20 07:07:35.156042'

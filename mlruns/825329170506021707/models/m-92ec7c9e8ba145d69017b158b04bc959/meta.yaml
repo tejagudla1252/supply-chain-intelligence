@@ -1,0 +1,10 @@
+artifact_location: /Users/teja/Downloads/Supply chain Project/mlruns/825329170506021707/models/m-92ec7c9e8ba145d69017b158b04bc959/artifacts
+creation_timestamp: 1773990455146
+experiment_id: '825329170506021707'
+last_updated_timestamp: 1773990457368
+model_id: m-92ec7c9e8ba145d69017b158b04bc959
+model_type: null
+name: random_forest_risk_model
+source_run_id: d5858604f6a944c3a82e62c8d56346a2
+status: 2
+status_message: null
